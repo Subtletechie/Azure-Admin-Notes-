@@ -1,0 +1,5 @@
+1. [Azure Administrator Documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
+2. [Azure Active Directory Documentation](https://learn.microsoft.com/en-us/azure/active-directory/)
+3. [Azure Virtual Machines Documentation](https://learn.microsoft.com/en-us/azure/virtual-machines/)
+4. [Azure Networking Documentation](https://learn.microsoft.com/en-us/azure/networking/)
+5. [Azure Storage Documentation](https://learn.microsoft.com/en-us/azure/storage/)
