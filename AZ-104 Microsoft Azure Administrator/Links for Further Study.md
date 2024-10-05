@@ -4,3 +4,4 @@
 4. [Azure Networking Documentation](https://learn.microsoft.com/en-us/azure/networking/)
 5. [Azure Storage Documentation](https://learn.microsoft.com/en-us/azure/storage/)
 6. [Azure policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
+7. [Azure Monitoring Documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
